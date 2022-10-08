@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @grasshaussoftware aka @deusopus
-- 🦸🏼‍♂️ I am a freelancer
+- 🦸🏼‍♂️ I'm a freelancer
 - 👀 I’m interested in music, crypto, and bots
 - 🌱 I’m currently learning python and react.
 - 💞️ I’m looking to collaborate on instapy2

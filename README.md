@@ -6,8 +6,8 @@
 - 📫 My email is deusopus@gmail.com
 - 🐻 My DOGE is DPaAF3ZVFNtpDoSf4Jov2A8xqZtTMgpf6V
 
-Learn Python here...
-https://www.w3schools.com/python/default.asp
+Learn Python here...<br/>
+https://www.w3schools.com/python/default.asp<br/>
 https://docs.python.org/3/
 
 <!---

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @grasshaussoftware aka @deusopus
 - 🦸🏼‍♂️ I'm a freelancer and founder of Grass Haus Studios
-- 👀 I’m interested in music, crypto, and bots
-- 🌱 I’m currently learning python and react.
+- 👀 I’m interested in music, reading, crypto, and bots
+- 🌱 I’m currently learning python and react among other things
 - 💞️ I’m looking to collaborate on instapy2
 - 📫 My email is deusopus@gmail.com
 - 🐻 My DOGE is DPaAF3ZVFNtpDoSf4Jov2A8xqZtTMgpf6V

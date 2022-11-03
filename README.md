@@ -1,8 +1,8 @@
 - 👋  Hi, I’m @grasshaussoftware aka @deusopus on twitter
-- 🦸🏼‍♂️  I'm a freelancer and founder of Grass Haus Studios
+- 🦸🏼‍♂️  I'm a freelancer (https://www.fiverr.com/deusopus2020) and founder of Grass Haus Studios LLC
 - 👀  My background is in production illustration and computer science
 - 🌱  I’m currently learning python, react, and various api
-- 💞️  I’m currently collaborating on https://piphi.network
+- 💞️  I’m currently collaborating on https://piphi.network and https://wiki.cannacoin.org
 - 📫  My email is deusopus@gmail.com
 - 🐻  My DOGE is DPaAF3ZVFNtpDoSf4Jov2A8xqZtTMgpf6V
 - 📚  My interests are music, podcast, books, and nature

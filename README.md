@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @grasshaussoftware aka @deusopus
+- 👋 Hi, I’m @grasshaussoftware aka @deusopus on twitter
 - 🦸🏼‍♂️ I'm a freelancer and founder of Grass Haus Studios
-- 👀 I’m interested in music, reading, crypto, and bots
-- 🌱 I’m currently learning python and react among other things
+- 👀 My background is in production illustration and computer science
+- 🌱 I’m currently learning python, react, and various api
 - 💞️ I’m currently collaborating on https://piphi.network
 - 📫 My email is deusopus@gmail.com
 - 🐻 My DOGE is DPaAF3ZVFNtpDoSf4Jov2A8xqZtTMgpf6V

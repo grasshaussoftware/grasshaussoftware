@@ -6,6 +6,7 @@
 - 📫  My email is deusopus@gmail.com
 - 🐻  My DOGE is DPaAF3ZVFNtpDoSf4Jov2A8xqZtTMgpf6V
 - 📚  My interests are music, podcast, books, and nature
+- 🎬  Here is my YouTube channel with coding tutorials
 
 Learn Python here...<br/>
 https://www.w3schools.com/python/default.asp<br/>

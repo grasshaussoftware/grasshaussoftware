@@ -1,18 +1,34 @@
-- 👋  Hi, I’m @grasshaussoftware aka @deusopus on twitter
-- 🦸🏼‍♂️  I'm a freelancer (https://www.fiverr.com/deusopus2020) and founder of Grass Haus Studios LLC
-- 👀  My background is in production illustration and computer science
-- 🌱  I’m currently learning python, react, and various api
-- 💞️  I’m currently collaborating on https://piphi.network and https://wiki.cannacoin.org
-- 📫  My email is deusopus@gmail.com
-- 🐻  My DOGE is DPaAF3ZVFNtpDoSf4Jov2A8xqZtTMgpf6V
-- 📚  My interests are music, podcast, books, and nature
-- 🎬  Here is my YouTube channel with coding tutorials (https://www.youtube.com/channel/UCT07DW6mr6LMqidFVxdblKw)
+# 👋 Welcome to @grasshaussoftware's GitHub Profile!
 
-Thanks for visiting!
+Hi, I'm @grasshaussoftware, also known as @deusopus on [Twitter](https://twitter.com/deusopus). I'm a Freelancer on [Fiverr](https://www.fiverr.com/deusopus2020) and the founder of **Grass Haus Studios LLC**.
 
-Learn Python here...<br/>
-https://www.w3schools.com/python/default.asp<br/>
-https://docs.python.org/3/
+![Banner](your-banner-image-url-here)
+
+## 🦸🏼‍♂️ About Me
+
+- **Background**: My background lies in production illustration and computer science.
+- **Learning**: Currently sharpening my skills in Python, React, and various APIs.
+- **Collaborating**: Currently working on [PiPhi Network](https://piphi.network) and [Cannacoin Wiki](https://wiki.cannacoin.org).
+- **Interests**: I'm interested in music 🎵, podcasts 🎙️, books 📚, and nature 🌳.
+
+## 📫 Contact Information
+
+- **Email**: [deusopus@gmail.com](mailto:deusopus@gmail.com)
+- **DOGE Wallet**: `DGcehRBvtPJY3nU6FwiGCbo534BVCJgshJ`
+
+## 📚 Resources
+
+- [Learn Python](https://www.w3schools.com/python/default.asp)
+- [Python Documentation](https://docs.python.org/3/)
+
+## 🎬 YouTube Channel
+
+You can find coding tutorials on my [YouTube Channel](https://www.youtube.com/channel/UCT07DW6mr6LMqidFVxdblKw).
+
+---
+
+Thanks for visiting! 😊
+
 
 <!---
 grasshaussoftware/grasshaussoftware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

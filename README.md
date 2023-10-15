@@ -1,6 +1,6 @@
-# 👋 Welcome to @grasshaussoftware's GitHub Profile!
+# 👋 Welcome to my GitHub Profile!
 
-Hi, I'm @grasshaussoftware, also known as @deusopus on [Twitter](https://twitter.com/deusopus). I'm a Freelancer on [Fiverr](https://www.fiverr.com/traphaus) and the founder of **Trap Haus Enterprises LLC**.
+Salutations!
 
 ![Banner](https://imgur.com/YmuTMf3.jpg)
 

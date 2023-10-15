@@ -2,8 +2,6 @@
 
 Salutations!
 
-![Banner](https://imgur.com/YmuTMf3.jpg)
-
 ## 🦸🏼‍♂️ About Me
 
 - **Background**: My background lies in production illustration and computer science.

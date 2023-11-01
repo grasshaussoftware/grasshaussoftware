@@ -1,27 +1,27 @@
-![Banner](https://imgur.com/undefined)[/Banner]
+![Banner](https://images2.imgbox.com/5c/2e/Gh7J6Hhr_o.png)
 
-# Welcome to My GitHub Profile
+# 🌟 Welcome to My GitHub Profile 🌟
 
-Blending artistry in production illustration with the technical prowess of computer science.
+Blending 🎨 artistry in production illustration with the technical prowess 💼 of computer science.
 
 ## 🌐 Professional Background
 
-- **Expertise**: Bridging the gap between art and technology.
-- **Current Endeavors**: Advancing my proficiency in Python 🐍, React ⚛️, and various cutting-edge APIs.
-- **Key Collaborations**: Contributing to innovative projects like [PiPhi Network](https://piphi.network) and the [Cannacoin Wiki](https://wiki.cannacoin.org).
+- **Expertise**: Bridging the gap between art 🖼️ and technology 💡.
+- **Current Endeavors**: Advancing my proficiency in Python 🐍, React ⚛️, and various cutting-edge APIs 🚀.
+- **Key Collaborations**: Contributing to innovative projects like [PiPhi Network](https://piphi.network) 🌐 and the [Cannacoin Wiki](https://wiki.cannacoin.org) 📜.
 
 ## 📚 Personal Interests
 
-- **Music**: Appreciating diverse genres and compositions 🎵.
+- **Music**: Appreciating diverse genres and compositions 🎵🎧.
 - **Podcasts**: Engaging with insightful discussions 🎙️.
-- **Literature**: Exploring narratives across genres 📚.
-- **Nature**: Embracing the serenity and wonders of the outdoors 🌳.
+- **Literature**: Exploring narratives across genres 📚📖.
+- **Nature**: Embracing the serenity and wonders of the outdoors 🌳🌲.
 
 ## 📞 Contact & Connect
 
 - 🌐 **Portfolio**: [deusopus.carrd.co](https://deusopus.carrd.co)
 - 📧 **Email**: [deusopus@gmail.com](mailto:deusopus@gmail.com)
-- 🐶 **DOGE Wallet**: `DGcehRBvtPJY3nU6FwiGCbo534BVCJgshJ`
+- 🐶 **DOGE Wallet**: `DGcehRBvtPJY3nU6FwiGCbo534BVCJgshJ` 💰
 
 ## 🛠 Resources & References
 
@@ -30,11 +30,11 @@ Blending artistry in production illustration with the technical prowess of compu
 
 ## 🎥 Multimedia
 
-Dive into coding tutorials and more on my [YouTube Channel](https://www.youtube.com/channel/UCT07DW6mr6LMqidFVxdblKw).
+Dive into coding tutorials and more on my [YouTube Channel](https://www.youtube.com/channel/UCT07DW6mr6LMqidFVxdblKw) 📺.
 
 ---
 
-Thank you for visiting my profile. Feedback, collaborations, and connections are always valued.
+🙏 Thank you for visiting my profile. Feedback, collaborations, and connections are always valued 💖.
 
 ---
 

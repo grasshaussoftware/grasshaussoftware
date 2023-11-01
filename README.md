@@ -2,7 +2,7 @@
 
 # Welcome to My GitHub Profile
 
-A blend of artistry in production illustration and the technical prowess of computer science.
+Blending artistry in production illustration with the technical prowess of computer science.
 
 ## 🌐 Professional Background
 
@@ -19,6 +19,7 @@ A blend of artistry in production illustration and the technical prowess of comp
 
 ## 📞 Contact & Connect
 
+- 🌐 **Portfolio**: [deusopus.carrd.co](https://deusopus.carrd.co)
 - 📧 **Email**: [deusopus@gmail.com](mailto:deusopus@gmail.com)
 - 🐶 **DOGE Wallet**: `DGcehRBvtPJY3nU6FwiGCbo534BVCJgshJ`
 
@@ -33,7 +34,7 @@ Dive into coding tutorials and more on my [YouTube Channel](https://www.youtube.
 
 ---
 
-Thank you for visiting my profile. Your feedback, collaborations, and connections are always valued.
+Thank you for visiting my profile. Feedback, collaborations, and connections are always valued.
 
 ---
 

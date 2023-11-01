@@ -1,4 +1,4 @@
-![Banner](https://images2.imgbox.com/5c/2e/Gh7J6Hhr_o.png)
+![Banner]([https://images2.imgbox.com/5c/2e/Gh7J6Hhr_o.png](https://imgbox.com/f1GlGVyu))
 
 # 🌟 Welcome to My GitHub Profile 🌟
 

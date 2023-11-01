@@ -1,4 +1,4 @@
-![Banner Image](URL_OF_YOUR_IMAGE)
+![Banner Image]([URL_OF_YOUR_IMAGE](https://imgur.com/undefined))
 
 # Welcome to My GitHub Profile
 

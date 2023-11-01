@@ -1,4 +1,4 @@
-![Imgur](https://imgur.com/undefined)
+![Banner](https://imgur.com/undefined)[/Banner]
 
 # Welcome to My GitHub Profile
 

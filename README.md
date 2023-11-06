@@ -6,7 +6,7 @@ Blending 🎨 artistry in production illustration with the technical prowess �
 
 - **Expertise**: Bridging the gap between art 🖼️ and technology 💡.
 - **Current Endeavors**: Advancing my proficiency in Python 🐍, React ⚛️, and various cutting-edge APIs 🚀.
-- **Key Collaborations**: Contributing to innovative projects like [PiPhi Network](https://piphi.network) 🌐 and the [Cannacoin](https://linktr.ee/cannacoin) 📜.
+- **Key Collaborations**: Contributing to innovative projects like [PiPhi Network](https://piphi.network) 🌐 and [Cannacoin](https://linktr.ee/cannacoin) 📜.
 
 ## 📚 Personal Interests
 

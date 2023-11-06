@@ -6,7 +6,7 @@ Blending 🎨 artistry in production illustration with the technical prowess �
 
 - **Expertise**: Bridging the gap between art 🖼️ and technology 💡.
 - **Current Endeavors**: Advancing my proficiency in Python 🐍, React ⚛️, and various cutting-edge APIs 🚀.
-- **Key Collaborations**: Contributing to innovative projects like [PiPhi Network](https://piphi.network) 🌐 and the [Cannacoin Wiki](https://wiki.cannacoin.org) 📜.
+- **Key Collaborations**: Contributing to innovative projects like [PiPhi Network](https://piphi.network) 🌐 and the [Cannacoin](https://linktr.ee/cannacoin) 📜.
 
 ## 📚 Personal Interests
 
@@ -18,7 +18,7 @@ Blending 🎨 artistry in production illustration with the technical prowess �
 ## 📞 Contact & Connect
 
 - 🌐 **Portfolio**: [deusopus.carrd.co](https://deusopus.carrd.co)
-- 📧 **Email**: [deusopus@gmail.com](mailto:deusopus@gmail.com)
+- 📧 **Email**: [deusopus@duck.com](mailto:deusopus@duck.com)
 - 🐶 **DOGE Wallet**: `DCAz6ziLurSrNQKLBRjiSFavd9d8TYxJbD` 💰
 
 ## 🛠 Resources & References

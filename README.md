@@ -2,17 +2,18 @@
 
 Blending **artistry** 🎨 in production illustration with the **technical acumen** 💻 of computer science. Passionate about crafting solutions that merge creativity and technology seamlessly.  
 
-[BIO](https://github.com/grasshaussoftware/crypto-id-whitepaper/blob/main/about-author.pdf)
+[About me](https://github.com/grasshaussoftware/crypto-id-whitepaper/blob/main/about-author.pdf)
 
 ---
 
 ## 🌐 Professional Snapshot  
 
 - **What I Do**: Bridging the realms of **art** 🖼️ and **technology** 🚀 to build innovative digital experiences.  
-- **Current Focus**: Mastering **Python** 🐍, **React** ⚛️, and cutting-edge **APIs** to stay ahead in an ever-evolving tech landscape.  
+- **Current Focus**: Mastering **Python** 🐍, **React** ⚛️, **Rust** 🦀, **Solidity** 💻, and cutting-edge **APIs** to stay ahead in an ever-evolving tech landscape.  
 - **Collaborative Projects**: Contributing to impactful initiatives like:  
   - 🛠️ [PiPhi Network](https://piphi.network) 🌐  
   - 📜 [Cannacoin](https://linktr.ee/cannacoin)  
+  - 🔐 [Cryptographic Data Registration](https://github.com/grasshaussoftware/cryptographic-data-registration)  
 
 ---
 
@@ -37,14 +38,15 @@ Blending **artistry** 🎨 in production illustration with the **technical acume
 
 - [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)  
 - [Python Official Documentation](https://docs.python.org/3/)  
+- [Rust Official Documentation](https://doc.rust-lang.org/book/)  
+- [Solidity Documentation](https://soliditylang.org/docs/)
 
 ---
 
 ## 🎥 Featured Multimedia  
 
-Check out coding tutorials, tech content, and more on my [TikTok - @shrimpdumplinggang](https://www.tiktok.com/@shrimpdumplinggang) 📱.  
+Check out coding tutorials, tech content, and more fun stuff on my [TikTok - @shrimpdumplinggang](https://www.tiktok.com/@shrimpdumplinggang) 📱.  
 
 ---
 
 🙏 **Thank You** for visiting my profile! I'm always open to feedback, collaborations, or just a great conversation. Let’s build something incredible together! 🌟  
-

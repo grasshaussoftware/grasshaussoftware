@@ -19,7 +19,7 @@ Blending 🎨 artistry in production illustration with the technical prowess �
 
 - 🌐 **Portfolio**: [deusopus.carrd.co](https://deusopus.carrd.co)
 - 📧 **Email**: [deusopus@duck.com](mailto:deusopus@duck.com)
-- 🐶 **DOGE Wallet**: `DCAz6ziLurSrNQKLBRjiSFavd9d8TYxJbD` 💰
+- 🔥 **Ethereum**: `0x8114BeC86C8F56c1014f590E05cD7826054EcBdE` 💰
 
 ## 🛠 Resources & References
 

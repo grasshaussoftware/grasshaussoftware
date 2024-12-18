@@ -2,6 +2,8 @@
 
 Blending 🎨 artistry in production illustration with the technical prowess 💼 of computer science.
 
+[BIO](https://github.com/grasshaussoftware/crypto-id-whitepaper/blob/main/about-author.pdf)
+
 ## 🌐 Professional Background
 
 - **Expertise**: Bridging the gap between art 🖼️ and technology 💡.

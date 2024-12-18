@@ -42,8 +42,9 @@ Blending **artistry** 🎨 in production illustration with the **technical acume
 
 ## 🎥 Featured Multimedia  
 
-Explore coding, creativity, and more on my [YouTube Channel](https://www.youtube.com/channel/UCT07DW6mr6LMqidFVxdblKw) 📺.  
+Check out coding tutorials, tech content, and more on my [TikTok - @shrimpdumplinggang](https://www.tiktok.com/@shrimpdumplinggang) 📱.  
 
 ---
 
 🙏 **Thank You** for visiting my profile! I'm always open to feedback, collaborations, or just a great conversation. Let’s build something incredible together! 🌟  
+

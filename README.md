@@ -1,52 +1,54 @@
-# 🌟 Welcome to My GitHub Profile 🌟
+# 🌟 Brent Kohler’s GitHub Haven 🌟
 
-Blending **artistry** 🎨 in production illustration with the **technical acumen** 💻 of computer science. Passionate about crafting solutions that merge creativity and technology seamlessly.  
+I’m Brent Kohler, a Purdue ‘20 software design grad who’s been coding since I could read at age 2 and diving into crypto since 2011’s Bitcoin and Silk Road days. From Wenatchee, WA, I blend tech grit with artistic soul—think sunflowers, goats, and tiny-house dreams meets blockchain innovation. I founded the Cannacoin Community Foundation, snagging U.S. Trademark Reg. No. 7,110,096 in 2023 for my decade-long virtual currency project tied to cannabis advocacy. A prodigy turned hustler, I’ve road-tripped the U.S. as a kid (buffalo showdowns included), tested games for Nintendo, and now host *Walk and Talk with Grok* on Spotify, sharing self-improvement and tech vibes.
 
-[About me](https://github.com/grasshaussoftware/crypto-id-whitepaper/blob/main/about-author.pdf)
-
----
-
-## 🌐 Professional Snapshot  
-
-- **What I Do**: Bridging the realms of **art** 🖼️ and **technology** 🚀 to build innovative digital experiences.  
-- **Current Focus**: Mastering **Python** 🐍, **React** ⚛️, **Rust** 🦀, **Solidity** 💻, and cutting-edge **APIs** to stay ahead in an ever-evolving tech landscape.  
-- **Collaborative Projects**: Contributing to impactful initiatives like:  
-  - 🛠️ [PiPhi Network](https://piphi.network) 🌐  
-  - 📜 [Cannacoin](https://linktr.ee/cannacoin)  
-  - 🔐 [Cryptographic Data Registration](https://github.com/grasshaussoftware/cryptographic-data-registration)  
+Melding **artistic flair** 🎨 with **tech wizardry** 💻, I’m sharpening Python, React, Rust, and Solidity to push Cannacoin and beyond. My roots run deep—Young Astronauts, 2600 hacker meets in Seattle, and a love for comics and model rocketry fuel my creative fire. On SSDI, I grind for freedom (beer, smokes, maybe a car), nurture connections, and build community through code and conversation. Here’s where it all comes together—let’s make something epic.
 
 ---
 
-## 🌱 Personal Pursuits  
+## 🌐 Who I Am  
 
-- 🎵 **Music**: Discovering diverse genres and compositions.  
-- 🎙️ **Podcasts**: Exploring insights through captivating discussions.  
-- 📚 **Literature**: Immersing in cross-genre narratives.  
-- 🌳 **Nature**: Finding inspiration in the great outdoors.  
+- **Mission**: Fusing **art** 🖼️ and **tech** 🚀 to craft digital solutions with soul—think crypto, cannabis, and community.  
+- **Now**: Sharpening **Python** 🐍, **React** ⚛️, **Rust** 🦀, and **Solidity** 💻 while pushing Cannacoin (U.S. Trademark Reg. No. 7,110,096) into the future.  
+- **Key Projects**:  
+  - 🌿 [Cannacoin](https://linktr.ee/cannacoin) - My decade-long crypto baby for currency exchange and cannabis advocacy.  
+  - 🛠️ [PiPhi Network](https://piphi.network) - Collab on a next-gen tech framework.  
+  - 🔐 [ChainID](https://github.com/grasshaussoftware/ChainID) - Securing the digital frontier.  
+  - 🎙️ [*Walk and Talk with Grok*](https://open.spotify.com/show/3dB9h0EmYDJYIWyXpubDff) - Hosting self-improvement and tech chats on Spotify.
 
 ---
 
-## 🤝 Let's Connect  
+## 🌱 Off the Grid  
 
-- 🌐 **Portfolio**: [deusopus.carrd.co](https://deusopus.carrd.co)  
+- 🎸 **Tunes**: Crate-digging across genres.  
+- 🎙️ **Pods**: Soaking up stories and ideas.  
+- 📖 **Books**: Genre-hopping for inspiration.  
+- 🌻 **Yard**: Tending sunflowers, goats, and tiny-house dreams in Wenatchee.
+
+---
+
+## 🤝 Hit Me Up  
+
+- 🌐 **Hub**: [deusopus.carrd.co](https://deusopus.carrd.co)  
 - 📧 **Email**: [deusopus@duck.com](mailto:deusopus@duck.com)  
-- 💰 **Ethereum Wallet**: `0x8114BeC86C8F56c1014f590E05cD7826054EcBdE`  
+- 📱 **TikTok**: [@cryptobro2600](https://www.tiktok.com/@cryptobro2600) - Crypto riffs, tech takes, and Brent unfiltered.  
+- 💸 **ETH Wallet**: `0x8114BeC86C8F56c1014f590E05cD7826054EcBdE`
 
 ---
 
-## 📘 Resources I Love  
+## 📚 Tech Lifelines  
 
-- [W3Schools Python Tutorial](https://www.w3schools.com/python/default.asp)  
-- [Python Official Documentation](https://docs.python.org/3/)  
-- [Rust Official Documentation](https://doc.rust-lang.org/book/)  
-- [Solidity Documentation](https://soliditylang.org/docs/)
-
----
-
-## 🎥 Featured Multimedia  
-
-Check out coding tutorials, tech content, and more fun stuff on my [TikTok - @shrimpdumplinggang](https://www.tiktok.com/@shrimpdumplinggang) 📱.  
+- [W3Schools Python](https://www.w3schools.com/python/default.asp)  
+- [Python Docs](https://docs.python.org/3/)  
+- [Rust Book](https://doc.rust-lang.org/book/)  
+- [Solidity Docs](https://soliditylang.org/docs/)
 
 ---
 
-🙏 **Thank You** for visiting my profile! I'm always open to feedback, collaborations, or just a great conversation. Let’s build something incredible together! 🌟  
+## 🎥 Watch Me Roll  
+
+Catch my latest on TikTok [@cryptobro2600](https://www.tiktok.com/@cryptobro2600) - coding hacks, Cannacoin updates, and Wenatchee life.  
+
+---
+
+🙏 **Thanks for Dropping By!** Open to collabs, critiques, or just a solid chat. Let’s build the future—hit me up! 🌟

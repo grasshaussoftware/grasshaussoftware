@@ -1,54 +1,62 @@
-# 🌟 Brent Kohler’s GitHub Haven 🌟
+# deusopus: Software Architect and Blockchain Innovator 🚀
 
-I’m Brent Kohler, a Purdue ‘20 software design grad who’s been coding since I could read at age 2 and diving into crypto since 2011’s Bitcoin and Silk Road days. From Wenatchee, WA, I blend tech grit with artistic soul—think sunflowers, goats, and tiny-house dreams meets blockchain innovation. I founded the Cannacoin Community Foundation, snagging U.S. Trademark Reg. No. 7,110,096 in 2023 for my decade-long virtual currency project tied to cannabis advocacy. A prodigy turned hustler, I’ve road-tripped the U.S. as a kid (buffalo showdowns included), tested games for Nintendo, and now host *Walk and Talk with Grok* on Spotify, sharing self-improvement and tech vibes.
+I am Brent K. Kohler, a 2020 Purdue University Global graduate in software design, whose career is defined by the convergence of code, cryptography, and purposeful innovation. From Wenatchee, Washington, I have been engaged with technology since mastering literacy at age two and delving into Bitcoin’s emergent ecosystem in 2011. As founder of the Cannacoin Community Foundation, I secured U.S. Trademark Registration No. 7,110,096 in 2023, anchoring a decade-long commitment to virtual currency and cannabis advocacy 🌿. My professional journey spans game testing at Nintendo of America, social media strategy at Grass Haus Studios, and hosting *Walk and Talk with Grok* on Spotify, where I explore technology, discipline, and societal transformation 🎙️.
 
-Melding **artistic flair** 🎨 with **tech wizardry** 💻, I’m sharpening Python, React, Rust, and Solidity to push Cannacoin and beyond. My roots run deep—Young Astronauts, 2600 hacker meets in Seattle, and a love for comics and model rocketry fuel my creative fire. On SSDI, I grind for freedom (beer, smokes, maybe a car), nurture connections, and build community through code and conversation. Here’s where it all comes together—let’s make something epic.
-
----
-
-## 🌐 Who I Am  
-
-- **Mission**: Fusing **art** 🖼️ and **tech** 🚀 to craft digital solutions with soul—think crypto, cannabis, and community.  
-- **Now**: Sharpening **Python** 🐍, **React** ⚛️, **Rust** 🦀, and **Solidity** 💻 while pushing Cannacoin (U.S. Trademark Reg. No. 7,110,096) into the future.  
-- **Key Projects**:  
-  - 🌿 [Cannacoin](https://linktr.ee/cannacoin) - My decade-long crypto baby for currency exchange and cannabis advocacy.  
-  - 🛠️ [PiPhi Network](https://piphi.network) - Collab on a next-gen tech framework.  
-  - 🔐 [ChainID](https://github.com/grasshaussoftware/ChainID) - Securing the digital frontier.  
-  - 🎙️ [*Walk and Talk with Grok*](https://open.spotify.com/show/3dB9h0EmYDJYIWyXpubDff) - Hosting self-improvement and tech chats on Spotify.
+Rooted in disciplined problem-solving, I am advancing expertise in Python 🐍, React ⚛️, Rust 🦀, and Solidity 💻 to drive groundbreaking projects like Cannacoin, *Smoke*, and ChainID. My intellectual rigor, shaped by early participation in Young Astronauts and Seattle’s 2600 hacker community, informs a methodical approach to developing secure, decentralized systems 🔒. Beyond the digital realm, I cultivate resilience through literature 📚, music 🎶, and stewardship of my Wenatchee homestead, where I prioritize self-sufficiency and community connection 🏡.
 
 ---
 
-## 🌱 Off the Grid  
+## Professional Profile 💼
 
-- 🎸 **Tunes**: Crate-digging across genres.  
-- 🎙️ **Pods**: Soaking up stories and ideas.  
-- 📖 **Books**: Genre-hopping for inspiration.  
-- 🌻 **Yard**: Tending sunflowers, goats, and tiny-house dreams in Wenatchee.
-
----
-
-## 🤝 Hit Me Up  
-
-- 🌐 **Hub**: [deusopus.carrd.co](https://deusopus.carrd.co)  
-- 📧 **Email**: [deusopus@duck.com](mailto:deusopus@duck.com)  
-- 📱 **TikTok**: [@cryptobro2600](https://www.tiktok.com/@cryptobro2600) - Crypto riffs, tech takes, and Brent unfiltered.  
-- 💸 **ETH Wallet**: `0x8114BeC86C8F56c1014f590E05cD7826054EcBdE`
+- **Mission**: To architect resilient digital systems that empower communities, blending technical precision with socio-economic impact, particularly in cryptocurrency and decentralized identity.  
+- **Current Focus**: Deepening mastery of Python 🐍, React ⚛️, Rust 🦀, and Solidity 💻 to advance Cannacoin, *Smoke*, and innovative blockchain applications.  
+- **Key Initiatives**:  
+  - [Cannacoin](https://linktr.ee/cannacoin) 🌿: A pioneering virtual currency platform championing cannabis advocacy and economic exchange, trademarked in 2023 (U.S. Reg. No. 7,110,096).  
+  - [Smoke](https://github.com/cannacoin-official/cannacoin-smoke) 💨: An ambitious cryptocurrency project building on Cannacoin’s legacy, blending cutting-edge technology with community-driven development under the Cannacoin Community Foundation (Cannacoin Community Foundation, 2025).  
+  - [PiPhi Network](https://piphi.network) 🌐: Collaborative development of a scalable, next-generation technological framework.  
+  - [ChainID](https://github.com/grasshaussoftware/ChainID) 🔐: A blockchain-based solution for secure digital identity management.  
+  - [*Walk and Talk with Grok*](https://open.spotify.com/show/3dB9h0EmYDJYIWyXpubDff) 🎙️: A Spotify podcast examining technology, self-improvement, and cultural discourse.  
 
 ---
 
-## 📚 Tech Lifelines  
+## Personal Pursuits 🌱
 
-- [W3Schools Python](https://www.w3schools.com/python/default.asp)  
-- [Python Docs](https://docs.python.org/3/)  
-- [Rust Book](https://doc.rust-lang.org/book/)  
-- [Solidity Docs](https://soliditylang.org/docs/)
-
----
-
-## 🎥 Watch Me Roll  
-
-Catch my latest on TikTok [@cryptobro2600](https://www.tiktok.com/@cryptobro2600) - coding hacks, Cannacoin updates, and Wenatchee life.  
+- **Intellectual Growth** 📖: Engaging with literature and podcasts across disciplines to refine critical thinking.  
+- **Creative Fuel** 🎵: Curating music collections to spark focus and inspiration.  
+- **Homestead** 🐐: Managing a Wenatchee property with an emphasis on sustainable living and agricultural self-reliance.  
 
 ---
 
-🙏 **Thanks for Dropping By!** Open to collabs, critiques, or just a solid chat. Let’s build the future—hit me up! 🌟
+## Contact and Collaboration 📬
+
+- **Portfolio**: [deusopus.carrd.co](https://deusopus.carrd.co) 🌐  
+- **Email**: [deusopus@duck.com](mailto:deusopus@duck.com) ✉️  
+- **ETH Address**: `0x8114BeC86C8F56c1014f590E05cD7826054EcBdE` 💸  
+
+---
+
+## Technical Resources 🛠️
+
+- [Python Documentation](https://docs.python.org/3/) 🐍  
+- [Rust Programming Language Book](https://doc.rust-lang.org/book/) 🦀  
+- [Solidity Documentation](https://soliditylang.org/docs/) 💻  
+- [W3Schools Python Reference](https://www.w3schools.com/python/default.asp) 📚  
+
+---
+
+## Digital Presence 🌍
+
+Explore my contributions at [deusopus.carrd.co](https://deusopus.carrd.co), where I share technical insights, project updates on Cannacoin and *Smoke*, and perspectives from Wenatchee 🏞️.  
+
+---
+
+## Invitation to Engage 🤝
+
+I invite collaboration, technical critique, or substantive dialogue. My work is driven by a commitment to advancing decentralized systems and fostering community resilience. Connect with me to shape the future of blockchain technology together 🚀.
+
+---
+
+### Bibliography
+
+- Cannacoin Community Foundation, 2025. *Smoke Whitepaper*. [Online] Available at: https://cannacoin.org [Accessed 13 April 2025].  
+- United States Patent and Trademark Office, 2023. *Trademark Registration No. 7,110,096: Cannacoin*. [Online] Available at: https://www.uspto.gov/ [Accessed 13 April 2025].

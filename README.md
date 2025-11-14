@@ -1,4 +1,3 @@
-```
 # Brent K. Kohler (deusopus): Software Architect and Blockchain Innovator
 
 Brent K. Kohler is a dedicated software architect and blockchain innovator from Wenatchee, Washington. A 2020 graduate of Purdue University Global with a degree in information technology focusing on software development, his career integrates coding, cryptography, and impactful innovation. Engaging with technology from an early age—mastering literacy at two and exploring Bitcoin in 2011—Kohler has built a foundation in decentralized systems. As founder of the Cannacoin Community Foundation, he secured U.S. Trademark Registration No. 7,110,096 for Cannacoin in 2023, reflecting over a decade of commitment to virtual currencies and cannabis advocacy. His experience includes game testing at Nintendo of America, social media strategy at Grass Haus Studios, and hosting the *Walk and Talk with Grok* podcast on Spotify, where he discusses technology, discipline, and societal shifts.

@@ -1,4 +1,4 @@
-# Brent K. Kohler (deusopus): Software Architect and Blockchain Innovator
+Software Architect and Blockchain Innovator
 
 Brent K. Kohler is a dedicated software architect and blockchain innovator from Wenatchee, Washington. A 2020 graduate of Purdue University Global with a degree in information technology focusing on software development, his career integrates coding, cryptography, and impactful innovation. Engaging with technology from an early age—mastering literacy at two and exploring Bitcoin in 2011—Kohler has built a foundation in decentralized systems. As founder of the Cannacoin Community Foundation, he secured U.S. Trademark Registration No. 7,110,096 for Cannacoin in 2023, reflecting over a decade of commitment to virtual currencies and cannabis advocacy. His experience includes game testing at Nintendo of America, social media strategy at Grass Haus Studios, and hosting the *Walk and Talk with Grok* podcast on Spotify, where he discusses technology, discipline, and societal shifts.
 
@@ -81,13 +81,11 @@ This profile not only showcases Kohler's achievements but also invites partnersh
 | Solidity | Advanced | Smart contracts for Ethereum-compatible chains. | https://soliditylang.org/docs/ |
 
 ## Key Citations
-- [Brent K. Kohler - Resume](https://wiki.cannacoin.org/resume.html)
 - [CANNACOIN Trademark Application](https://trademarks.justia.com/906/83/cannacoin-90683788.html)
 - [Online IT Degree: Bachelor's in Information Technology](https://www.purdueglobal.edu/degree-programs/information-technology/online-bachelor-it/)
 - [Do You Have What It Takes to Become a Software Developer?](https://www.purdueglobal.edu/blog/information-technology/software-development/)
 - [Online Information Technology Degree Programs | Purdue Global](https://www.purdueglobal.edu/degree-programs/information-technology/)
 - [Walk and Talk w/Grok | Podcast on Spotify](https://open.spotify.com/show/3dB9h0EmYDJYIWyXpubDff)
-- [Brent K. Kohler - Resume (Podcast Reference)](https://wiki.cannacoin.org/resume.html)
 - [GitHub - cannacoin-official/cannacoin-smoke](https://github.com/cannacoin-official/cannacoin-smoke)
 - [Smoke by Cannacoin Whitepaper](https://cannacoin.org/)
 - [GitHub - grasshaussoftware/ChainID](https://github.com/grasshaussoftware/ChainID)

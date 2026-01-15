@@ -1,96 +1,98 @@
-# Brent K. Kohler: Software Architect and Blockchain Pioneer
+# Brent K. Kohler: Software Architect & Blockchain Innovator
 
-- **Core Expertise**: Research suggests Brent specializes in software architecture with a focus on blockchain and decentralized systems, particularly innovations in cryptocurrency for cannabis advocacy and secure digital identities.
-- **Educational Background**: Evidence indicates a Bachelor's in Information Technology from Purdue University Global in 2020, with an emphasis on software development.
-- **Key Achievements**: Founded the Cannacoin Community Foundation; secured U.S. Trademark for Cannacoin in 2023; leads ongoing projects including Smoke, ChainID, and PiPhi Network, with developments extending into 2025.
-- **Professional Experience**: Roles appear to include game testing at Nintendo of America, social media management at Grass Haus Studios, and hosting the *Walk and Talk with Grok* podcast, blending technical and creative pursuits.
-- **Personal Motivations**: Early involvement in tech, such as Bitcoin since 2011, points to a drive for disciplined problem-solving, sustainability, and community resilience, though some aspects like broader societal impacts remain debated in blockchain contexts.
-- **Collaboration Potential**: Open to partnerships in decentralized technologies, combining technical expertise with socio-economic applications, as seen in community-focused initiatives.
+<!-- ![GitHub Logo](https://your-image-url-here.png) <!-- Replace with your generated logo URL, e.g., the cannabis-themed Octocat -->
 
-### Background and Career Path
-It seems likely that Brent K. Kohler has forged a career blending software engineering and blockchain, influenced by self-taught explorations in decentralized finance. His trajectory, from gaming and social media roles to cryptocurrency leadership, reflects adaptability in evolving tech environments, with roots in communities like Seattle's 2600 hacker group and the Young Astronauts program. Based in Wenatchee, Washington—a hub for agriculture and emerging tech—his work integrates coding with practical applications in the cannabis economy and digital identities.
+Hi! I'm Brent (online as "deusopus" and [@freehempseeds](https://x.com/freehempseeds) on X), a passionate software architect from Wenatchee, Washington. I specialize in blockchain and decentralized systems, with a focus on cryptocurrency solutions for cannabis advocacy and secure digital identities. With a Bachelor's in Information Technology from Purdue University Global (2020), I've founded the Cannacoin Community Foundation and lead projects like Smoke, ChainID, and PiPhi Network.
 
-### Notable Projects
-Kohler's initiatives address real-world challenges, such as banking barriers in the cannabis sector. Projects like Cannacoin facilitate virtual currency exchanges, while Smoke incorporates staking and NFT elements. ChainID emphasizes privacy in digital identities, and PiPhi Network promotes sustainable smart home solutions, all grounded in open-source principles. Recent updates suggest ongoing development, with mainnets and betas launched in 2025, though implementation of advanced features like NFT tracking remains conceptual.
+### Quick Facts
+- **Core Expertise**: Building sustainable blockchain solutions to tackle real-world issues like banking barriers in the cannabis industry.
+- **Key Achievements**: Secured U.S. Trademark for Cannacoin in 2023; early Bitcoin explorer since 2011.
+- **Professional Background**: Game testing at Nintendo, social media at Grass Haus Studios, and hosting the *Walk and Talk with Grok* podcast.
+- **Community Involvement**: I volunteer at my church food bank through Chuck Wagon Ministries, helping the less fortunate by collecting and processing donations—a commitment I've upheld for several years.
+- **Personal Side**: In my spare time, I not only enjoy reading and listening to music but also cooking meals and hanging out with friends, while curating playlists and managing my homestead for sustainability.
 
-### Skills and Development
-Advanced skills in Python, React, Rust, and Solidity enable the creation of secure, scalable blockchain applications. Continuous learning aligns with industry trends, supporting projects from backend scripting to smart contract development.
+I'm open to collaborations in decentralized tech—let's innovate for socio-economic impact! Reach me at [deusopus.carrd.co](https://deusopus.carrd.co).
 
-### Broader Impact
-Kohler's podcast and homestead activities highlight a philosophy of holistic resilience, merging intellectual growth with self-sufficiency. This positions him as a community-oriented advocate in tech, navigating sector challenges while promoting socio-economic change through blockchain.
+### Skills
+Advanced in Python, React, Rust, and Solidity for secure, scalable apps.
+
+### Featured Projects
+- **Cannacoin**: Decentralized crypto for cannabis transactions.
+- **Smoke**: Hybrid PoW/PoS extension with staking and NFT potential.
+- **ChainID**: Privacy-focused digital identity on Avalanche.
+- **PiPhi Network**: Algorand-based smart home data platform.
+- **Walk and Talk with Grok**: Podcast on tech and self-improvement.
+
+For details, check the tables below.
 
 ---
 
-Brent K. Kohler, known online as "deusopus" and on X as "@freehempseeds," represents a unique blend of technical expertise, entrepreneurial drive, and advocacy in software architecture and blockchain innovation. Residing in Wenatchee, Washington—a locale that combines agricultural heritage with growing tech influences—Kohler merges programming skills with practical solutions for decentralized systems in the cannabis economy and secure digital identities. His early literacy, reading by age two, and engagement with Bitcoin since 2011 underscore a lifelong commitment to exploring digital frontiers. This profile draws from verified sources including trademarks, academic references, GitHub repositories, and public platforms to offer a comprehensive, up-to-date overview as of early 2026, acknowledging the evolving nature of blockchain technologies.
+Brent K. Kohler, known online as "deusopus" and on X as "@freehempseeds," is a multifaceted professional at the intersection of software architecture and blockchain innovation. Based in Wenatchee, Washington—a region that blends agricultural heritage with emerging technology—Brent integrates technical expertise with advocacy for the cannabis economy and secure digital identities. His early literacy (reading by age two) and involvement with Bitcoin since 2011 highlight a deep-rooted commitment to digital frontiers and community-driven solutions. This detailed profile synthesizes verified information from trademarks, academic records, GitHub repositories, public platforms, and community sources, offering a comprehensive overview as of early 2026, while acknowledging the evolving nature of blockchain technologies.
 
-### Academic Credentials
-Kohler's Bachelor's in Information Technology from Purdue University Global in 2020, an accredited online affiliate of Purdue University, centers on software development, programming, and IT fundamentals. The curriculum prepares for certifications such as CompTIA and Microsoft, building skills in data management, cybersecurity, and application design. It stresses practical applications, which align seamlessly with Kohler's blockchain projects. While debates exist around the equivalence of online education, accreditation and positive employer feedback validate its worth for flexible, career-oriented professionals.
+### Academic Background
+Brent earned his Bachelor's in Information Technology from Purdue University Global in 2020. As an accredited online affiliate of Purdue University, the program emphasizes software development, programming, and foundational IT skills. It prepares students for certifications such as CompTIA and Microsoft, fostering expertise in data management, cybersecurity, and application design. The curriculum's practical focus aligns directly with Brent's blockchain projects, providing a solid foundation for real-world applications. Despite ongoing debates about the equivalence of online degrees to traditional ones, the program's accreditation and positive employer reception validate its effectiveness for adaptable, career-oriented individuals.
 
-### Professional Trajectory
-Kohler's career spans diverse roles that highlight versatility:
-- **Game Testing at Nintendo of America**: Involved in quality assurance for gaming consoles, honing attention to detail and systematic problem-solving skills.
-- **Social Media Direction at Grass Haus Studios**: Managed digital marketing, potentially with a cannabis focus, enhancing communication and online community-building abilities.
-- **Founding Cannacoin Community Foundation**: Secured U.S. Trademark No. 7,110,096 for "Cannacoin" (Serial No. 90683788) on September 26, 2023, covering currency exchange and virtual trading services. This initiative, originating from 2014 Reddit discussions, tackles cannabis banking restrictions through decentralized transactions, fostering economic inclusion amid regulatory and fintech challenges. Kohler has led the project since 2019, emphasizing sustainability and community governance.
+### Professional Journey
+Brent's career showcases versatility across technical and creative roles:
+- **Game Testing at Nintendo of America**: Involved in quality assurance for gaming consoles, sharpening skills in detail-oriented problem-solving and systematic testing.
+- **Social Media Direction at Grass Haus Studios**: Managed digital marketing efforts, potentially with a cannabis focus, enhancing abilities in community building and online engagement.
+- **Founding Cannacoin Community Foundation**: Established in 2019, Brent secured U.S. Trademark No. 7,110,096 for "Cannacoin" (Serial No. 90683788) on September 26, 2023, covering currency exchange and virtual trading services. Originating from 2014 Reddit discussions, the project addresses banking restrictions in the cannabis sector through decentralized transactions, promoting economic inclusion amid regulatory challenges and fintech volatility. Brent prioritizes sustainability and community governance in his leadership.
 
-### Key Projects
-Kohler's projects demonstrate innovative applications of blockchain in niche sectors:
-- **Cannacoin**: A decentralized cryptocurrency for cannabis advocacy, with resources accessible via Linktree, Discord, and a dedicated wiki. Launched in 2014 as a Scrypt-based Layer-1 blockchain, it transitioned from PoW to PoS, with a capped supply of 13.14 million coins and no premine or ICO. Recent blog posts discuss health risks, legal shifts, and Cannacoin's role in secure transactions. Community engagement includes Telegram, Discord, and Reddit (r/cannacoin).
-- **Smoke**: A hybrid PoW/PoS extension of Cannacoin using Scrypt algorithm, with a fixed supply of 420,000,069 tokens and staking yields up to 893% APY. Conceptual features include NFT tracking for supply chains and cannabis-collateralized loans, though unimplemented as of late 2025. Mainnet went live in November 2025; open-source on GitHub with wallets for Windows and Linux. Last repository updates in April 2025 indicate early-stage development.
-- **ChainID**: A Rust-based digital identity solution on Avalanche C-Chain, using BIP-39 mnemonics, KYC integration, and ECC (secp256k1) cryptography for privacy via hashing. Version 1.0 released in March 2025 with AI assistance from Grok 3; features QR code scanning and simulated NFT minting. Recent X posts suggest applications in blockchain-based voter ID. Repository shows limited activity with 5 commits and no further releases.
-- **PiPhi Network**: An Algorand-based platform for smart home and environmental data aggregation, offering token rewards and customizable dashboards. Mainnet token launched March 29, 2024; Tokenomics v2.0 in April 2024. Beta features for developer plugins and mobile app expected in Q1 2025, with lifetime access at $50. Focuses on hyper-local data accuracy and sustainability.
-- **Walk and Talk with Grok**: A Spotify podcast exploring tech, self-improvement, and cultural shifts, co-hosted by AI "Bling Bling" from xAI. Premiere episode released March 14, 2025; no additional episodes noted as of early 2026.
+### Key Projects and Innovations
+Brent's initiatives apply blockchain to practical challenges, rooted in open-source principles:
+- **Cannacoin**: A decentralized cryptocurrency tailored for cannabis advocacy, facilitating secure virtual exchanges. Launched in 2014 as a Scrypt-based Layer-1 blockchain, it transitioned from Proof-of-Work (PoW) to Proof-of-Stake (PoS), with a capped supply of 13.14 million coins and no premine or ICO. Resources include Linktree, Discord, a dedicated wiki, and community hubs like Telegram and Reddit (r/cannacoin). Recent blog posts discuss health implications, legal shifts, and its role in compliant transactions.
+- **Smoke**: An extension of Cannacoin as a hybrid PoW/PoS cryptocurrency using the Scrypt algorithm, featuring a fixed supply of 420,000,069 tokens and staking yields up to 893% APY. Conceptual features encompass NFT tracking for supply chains and cannabis-collateralized loans, though these are unimplemented as of late 2025. The mainnet launched in November 2025; it's open-source on GitHub with wallets for Windows and Linux, with repository updates last noted in April 2025, indicating an early adoption phase.
+- **ChainID**: A Rust-based digital identity management solution on Avalanche C-Chain, utilizing BIP-39 mnemonics, KYC integration, and ECC (secp256k1) cryptography for privacy through hashing. Version 1.0 was released in March 2025 with AI assistance from Grok 3, including QR code scanning and simulated NFT minting. Recent X posts suggest applications in blockchain-based voter ID. The GitHub repository reflects limited post-release activity with five commits.
+- **PiPhi Network**: An Algorand-based platform for smart home and environmental data aggregation, offering token rewards, customizable dashboards, and hyper-local accuracy via H3 hex-grid systems. The mainnet token launched on March 29, 2024, with Tokenomics v2.0 in April 2024. Beta features for developer plugins and a mobile app were expected in Q1 2025 and likely realized by 2026, with lifetime access at $50, emphasizing sustainability.
+- **Walk and Talk with Grok**: A Spotify podcast exploring technology, self-discipline, cultural shifts, and innovation, co-hosted by xAI's AI "Bling Bling." The premiere episode released on March 14, 2025; as of early 2026, only one episode is confirmed, bridging tech insights with personal growth themes.
 
-### Personal Pursuits
-Kohler balances technology with interests in literature, podcasts, music curation, and managing a homestead in Wenatchee for sustainability and community building. Recent X activity reflects themes of personal growth, cannabis culture, and blockchain applications, with posts emphasizing integrity and community.
+### Community Engagement and Personal Pursuits
+Brent actively contributes to his community through volunteer work at his church food bank via Chuck Wagon Ministries, a Christ-centered organization in East Wenatchee, Washington. For several years, he has assisted in collecting and processing donations, supporting the less fortunate in local and underserved remote areas where such services are scarce. The ministry operates weekly at Kingdom Embassy Church, providing free meals and food bank services to the financially and spiritually poor, with a focus on stewardship of donations. In his spare time, Brent not only reads literature and listens to podcasts but also curates music, cooks meals, hangs out with friends, and manages his Wenatchee homestead to promote sustainability and resilience. His recent X activity often touches on personal development, cannabis culture, and blockchain's broader societal impacts, emphasizing integrity and community support.
 
 ### Technical Proficiencies
-Proficiencies include:
-- **Python**: Advanced for backend scripting and automation in projects like Cannacoin and Smoke. Resources: [docs.python.org/3/](https://docs.python.org/3/), [w3schools.com/python](https://www.w3schools.com/python).
-- **React**: Intermediate-advanced for front-end development in dApps, such as PiPhi Network. Resource: [react.dev](https://react.dev).
-- **Rust**: Advanced for secure systems, core to ChainID. Resource: [doc.rust-lang.org/book/](https://doc.rust-lang.org/book/).
-- **Solidity**: Advanced for smart contracts on EVM-compatible chains like Avalanche. Resource: [docs.soliditylang.org](https://docs.soliditylang.org).
-These skills facilitate learning and collaboration through open-source contributions.
+Brent's advanced skills enable the development of robust blockchain applications:
+- **Python**: Used for backend scripting, automation, and integrations in projects like Cannacoin and Smoke. Resources: [Python Docs](https://docs.python.org/3/), [W3Schools Python](https://www.w3schools.com/python).
+- **React**: For frontend development in decentralized apps (dApps), such as PiPhi Network. Resource: [React.dev](https://react.dev).
+- **Rust**: Essential for secure, memory-safe systems, as in ChainID's core. Resource: [Rust Book](https://doc.rust-lang.org/book/).
+- **Solidity**: For smart contract development on EVM-compatible chains like Avalanche. Resource: [Solidity Docs](https://docs.soliditylang.org).
 
-### Engagement
-- Portfolio: [deusopus.carrd.co](https://deusopus.carrd.co)
-- Email: deusopus@duck.com
-- ETH Address: 0x8114BeC86C8F56c1014f590E05cD7826054EcBdE
-- Online Presence: Ecency, Reddit (r/cannacoin), Facebook (Cannacoin Network), X (@freehempseeds).
-Kohler's efforts advance blockchain-driven socio-economic transformations through precision and community focus, addressing industry obstacles with innovative, resilient pathways.
+These proficiencies support continuous learning and open-source collaborations.
+
+### Engagement Opportunities
+- **Portfolio**: [deusopus.carrd.co](https://deusopus.carrd.co)
+- **Email**: deusopus@duck.com
+- **ETH Address**: 0x8114BeC86C8F56c1014f590E05cD7826054EcBdE
+- **Online Presence**: Ecency, Reddit (r/cannacoin), Facebook (Cannacoin Network), X (@freehempseeds).
+
+Brent's work advances blockchain-driven socio-economic changes through technical precision, community emphasis, and innovative problem-solving.
 
 | Project | Description | Technologies/Key Features | Links/Resources | Status/Notes |
 |---------|-------------|---------------------------|-----------------|--------------|
-| Cannacoin | Decentralized cryptocurrency for the cannabis industry, enabling secure alternative financial exchanges in a regulated sector. | Blockchain-based virtual currency; trademark protection; community governance via forums and Discord; Scrypt-based Layer-1 with PoW to PoS transition. | [linktr.ee/cannacoin](https://linktr.ee/cannacoin); [wiki.cannacoin.org](https://wiki.cannacoin.org); Trademark at [tsdr.uspto.gov](https://tsdr.uspto.gov/) (Serial No. 90683788). | Active since 2014; Trademark registered September 26, 2023 (Reg. No. 7,110,096); Addresses banking restrictions; Recent blog updates on regulations and health as of November 2025.  |
-| Smoke | Hybrid PoW/PoS extension of Cannacoin for enhanced staking, mining, and potential supply chain integrations. | Scrypt hashing; Fixed supply of 420,000,069 tokens; Staking with APY up to 893%; Conceptual NFT tracking. | [github.com/cannacoin-official/cannacoin-smoke](https://github.com/cannacoin-official/cannacoin-smoke); [cannacoin.org/whitepaper.pdf](https://cannacoin.org/whitepaper.pdf). | Mainnet operational since November 2025; Open-source with community contributions; Early adoption phase; GitHub updates through April 2025.  |
-| PiPhi Network | Scalable platform for smart home and environmental data aggregation, rewarding users for contributions. | Algorand blockchain; Customizable dashboards; Token rewards for DIY integrations; Hyper-local data accuracy via H3 hex-grid. | [piphi.network](https://piphi.network). | In development with beta features; Lifetime access at $50; Roadmap includes mobile apps and tokenomics updates; Betas expected Q1 2025, likely launched by 2026.  |
-| ChainID | Secure digital identity management for Web3, prioritizing privacy and verification. | Rust programming; ECC (secp256k1) cryptography; BIP-39 mnemonics; KYC integration; QR code scanning; Avalanche C-Chain deployment. | [github.com/grasshaussoftware/ChainID](https://github.com/grasshaussoftware/ChainID). | Version 1.0 released March 2025; AI-assisted; Focuses on data hashing; Limited activity post-release; Potential voter ID applications noted in 2026 posts.  |
-| Walk and Talk with Grok | Podcast series on technology, self-discipline, cultural shifts, and innovation. | Spotify platform; AI co-hosting for interactive dialogues. | [open.spotify.com/show/3dB9h0EmYDJYIWyXpubDff](https://open.spotify.com/show/3dB9h0EmYDJYIWyXpubDff). | Ongoing with premiere in March 2025; Aims to connect tech insights with personal growth; One episode confirmed as of early 2026.  |
+| Cannacoin | Decentralized cryptocurrency for cannabis industry, enabling secure financial exchanges. | Blockchain-based; trademark protection; Scrypt Layer-1 with PoW to PoS; community governance. | [Linktree](https://linktr.ee/cannacoin); [Wiki](https://wiki.cannacoin.org); [USPTO](https://tsdr.uspto.gov/) (Serial No. 90683788). | Active since 2014; Trademarked Sept 2023 (Reg. No. 7,110,096); Focus on banking restrictions; Blog updates on regs/health (Nov 2025). |
+| Smoke | Hybrid extension for staking and integrations. | Scrypt hashing; 420M+ tokens; APY up to 893%; Conceptual NFTs. | [GitHub](https://github.com/cannacoin-official/cannacoin-smoke); [Whitepaper](https://cannacoin.org/whitepaper.pdf). | Mainnet Nov 2025; Open-source; Early phase; Updates to Apr 2025. |
+| PiPhi Network | Platform for smart home/environmental data. | Algorand; Dashboards; Token rewards; H3 hex-grid accuracy. | [Site](https://piphi.network). | Beta features; $50 access; Roadmap for apps/tokenomics; Launched by 2026. |
+| ChainID | Secure Web3 identity management. | Rust; ECC cryptography; BIP-39; KYC; Avalanche deployment. | [GitHub](https://github.com/grasshaussoftware/ChainID). | V1.0 Mar 2025; AI-assisted; Data hashing; Limited post-release activity; Voter ID potential (2026 posts). |
+| Walk and Talk with Grok | Podcast on tech and growth. | Spotify; AI co-host. | [Spotify](https://open.spotify.com/show/3dB9h0EmYDJYIWyXpubDff). | Premiere Mar 2025; Ongoing; One episode as of 2026. |
 
-| Skill/Language | Proficiency Level | Applications in Projects | Resources |
-|----------------|-------------------|--------------------------|-----------|
-| Python | Advanced | Backend scripting, automation, and integration in blockchain tools like Cannacoin and Smoke. | [docs.python.org/3/](https://docs.python.org/3/); [w3schools.com/python/default.asp](https://www.w3schools.com/python/default.asp).  |
-| React | Intermediate-Advanced | Frontend development for decentralized applications (dApps) and user interfaces in projects like PiPhi Network. | Official React documentation at [react.dev](https://react.dev/).  |
-| Rust | Advanced | Building secure, memory-safe systems, as seen in ChainID's identity management core. | [doc.rust-lang.org/book/](https://doc.rust-lang.org/book/).  |
-| Solidity | Advanced | Smart contract development for Ethereum Virtual Machine (EVM)-compatible chains, applied in Avalanche-based solutions. | [docs.soliditylang.org/en/latest/](https://docs.soliditylang.org/en/latest/).  |
+| Skill/Language | Proficiency | Applications | Resources |
+|----------------|-------------|--------------|-----------|
+| Python | Advanced | Backend in Cannacoin/Smoke. | [Docs](https://docs.python.org/3/); [W3Schools](https://www.w3schools.com/python). |
+| React | Intermediate-Advanced | Frontends in PiPhi. | [React.dev](https://react.dev). |
+| Rust | Advanced | Security in ChainID. | [Rust Book](https://doc.rust-lang.org/book/). |
+| Solidity | Advanced | Contracts in Avalanche solutions. | [Solidity Docs](https://docs.soliditylang.org). |
 
 | Year | Milestone | Details |
 |------|-----------|---------|
-| 2011 | Early Bitcoin Involvement | Began exploring cryptocurrencies, setting the foundation for future projects.  |
-| 2014 | Cannacoin Origins | Emerged from community forums as a cannabis-focused digital currency.  |
-| 2020 | Purdue Global Graduation | Bachelor's in IT with software development focus.  |
-| 2023 | Cannacoin Trademark | U.S. Registration No. 7,110,096 secured.  |
-| March 2025 | ChainID Release | Version 1.0 launched with AI assistance.  |
-| November 2025 | Smoke Mainnet | Hybrid cryptocurrency operational per whitepaper.  |
+| 2011 | Bitcoin Exploration | Foundation for crypto projects. |
+| 2014 | Cannacoin Launch | From community forums. |
+| 2020 | Purdue Graduation | IT degree focus. |
+| 2023 | Cannacoin Trademark | U.S. Reg. No. 7,110,096. |
+| Mar 2025 | ChainID Release | V1.0 with AI. |
+| Nov 2025 | Smoke Mainnet | Operational per whitepaper. |
 
 ### Key Citations
-- [Brent K. Kohler: Software Architect and Blockchain Pioneer](https://github.com/grasshaussoftware/grasshaussoftware)
-- [Application for Cannacoin - USPTO.report](https://uspto.report/TM/90683788/APP20210504111401)
-- [r/cannacoin - Reddit](https://www.reddit.com/r/cannacoin)
-- [[ANN] Cannacoin (CCN) | PoW->PoSV | No premine ... - Bitcoin Forum](https://bitcointalk.org/index.php?topic=740903.new)
-- [March 2025 - blog.cannacoin.org](https://blog.cannacoin.org/2025/03)
-- [PiPhi Network](https://piphi.network)
-- [GitHub - cannacoin-official/cannacoin-smoke](https://github.com/cannacoin-official/cannacoin-smoke)
-- [GitHub - grasshaussoftware/ChainID: by Grok3 via deusopus 2025](https://github.com/grasshaussoftware/ChainID)
-- [Walk and Talk w/Grok | Podcast on Spotify](https://open.spotify.com/show/3dB9h0EmYDJYIWyXpubDff)
-- [blog.cannacoin.org](https://blog.cannacoin.org)
-- [Smoke by Cannacoin Whitepaper](https://cannacoin.org)
+- [Chuck Wagon Ministries | Join Us in Feeding Hope](https://www.chuckwagonministries.org/)
+- [Chuck Wagon Ministries | East Wenatchee WA - Facebook](https://www.facebook.com/p/Chuck-Wagon-Ministries-61572467319074)
+- [Chuck Wagon Ministries - GuideStar Profile](https://www.guidestar.org/Profile/33-3437780)
+- [Chuck Wagon Ministries 501C3 Nonprofit Organization Information](https://www.taxexemptworld.com/organization.asp?tn=3220121)
+- [About 1 — Chuck Wagon Ministries](https://rose-chinchilla-xncd.squarespace.com/about-us)

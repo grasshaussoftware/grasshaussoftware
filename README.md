@@ -89,10 +89,3 @@ Brent's work advances blockchain-driven socio-economic changes through technical
 | 2023 | Cannacoin Trademark | U.S. Reg. No. 7,110,096. |
 | Mar 2025 | ChainID Release | V1.0 with AI. |
 | Nov 2025 | Smoke Mainnet | Operational per whitepaper. |
-
-### Key Citations
-- [Chuck Wagon Ministries | Join Us in Feeding Hope](https://www.chuckwagonministries.org/)
-- [Chuck Wagon Ministries | East Wenatchee WA - Facebook](https://www.facebook.com/p/Chuck-Wagon-Ministries-61572467319074)
-- [Chuck Wagon Ministries - GuideStar Profile](https://www.guidestar.org/Profile/33-3437780)
-- [Chuck Wagon Ministries 501C3 Nonprofit Organization Information](https://www.taxexemptworld.com/organization.asp?tn=3220121)
-- [About 1 — Chuck Wagon Ministries](https://rose-chinchilla-xncd.squarespace.com/about-us)
